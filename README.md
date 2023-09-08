@@ -7,4 +7,6 @@
 - An option to set the size of your brush and erazer
 - Save your work as a JPEG or PNG file.
 
+# You can checkout live project at : https://digisketch.vercel.app/
+
 <img src="./shot.PNG" width="600"/>
