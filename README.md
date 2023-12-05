@@ -1,4 +1,4 @@
-# A Basic Functional Writing Board
+# Digisketch is digital writing board suitable for all screens
 
 ## Features In  Brief :
 - Select from 5 different colors of brushes
